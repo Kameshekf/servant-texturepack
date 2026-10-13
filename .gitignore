@@ -1,0 +1,12 @@
+# Ignore raw archives
+*.zip
+*.rar
+*.7z
+*.tar.gz
+
+# Ignore local builds and temp files
+*.tmp
+*.bak
+.idea/
+.DS_Store
+Thumbs.db
