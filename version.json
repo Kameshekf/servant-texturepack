@@ -1,0 +1,15 @@
+{
+  "version": "5.1.0",
+  "url": "https://cdn.servant-ru.online/pack.srp",
+  "fallbackUrl": "https://servant-ru.online/api/pack/pack.srp",
+  "sha256": "82bfe3283028f8b191543b1c5e399eff10cfa6f9d5d1af5adc77a324aa11ca8a",
+  "size": 17733400,
+  "notes": "\u041e\u0431\u043d\u043e\u0432\u043b\u0435\u043d\u043d\u044b\u0439 \u0437\u0430\u0448\u0438\u0444\u0440\u043e\u0432\u0430\u043d\u043d\u044b\u0439 \u043f\u0430\u043a \u0442\u0435\u043a\u0441\u0442\u0443\u0440 Servant (SRP1 AES-256-GCM v5.1.0)",
+  "maskedKey": "1b23c48e658cb9afef443bcd8f70054f79e744a4af7b3eca863eaa355eddde3e",
+  "mirrors": {
+    "cdn": "https://cdn.servant-ru.online/pack.srp",
+    "direct": "https://servant-ru.online/api/pack/pack.srp",
+    "bypass": "https://srv-api-vps-92jksdf83.servant-ru.online:8081/api/pack/pack.srp",
+    "github": "https://github.com/Kameshekf/servant-texturepack/releases/download/latest/pack.srp"
+  }
+}
